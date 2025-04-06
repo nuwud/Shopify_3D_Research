@@ -1,0 +1,1 @@
+// core/SceneManager.ts content placeholder

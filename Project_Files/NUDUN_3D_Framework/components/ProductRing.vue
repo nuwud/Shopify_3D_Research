@@ -1,0 +1,1 @@
+// components/ProductRing.vue content placeholder

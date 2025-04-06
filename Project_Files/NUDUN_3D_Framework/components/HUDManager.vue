@@ -1,0 +1,1 @@
+// components/HUDManager.vue content placeholder
